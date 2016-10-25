@@ -1,0 +1,34 @@
+# SIFT
+- MERLET Antoine
+- ALI Mohamed
+- AHMED KHALID Fhad
+- LAHAM Skylar
+# JPEG 2000
+- CORSIN Romain
+- DAVID Flavien
+- AGBOHOUI Olivier
+- DESCHARRIERES Kévin
+# IBR and EBR
+- SAUCEDA Carlos
+- REIMMER Meldrick
+- BOUISSA Selma
+- SONIZARA Danie
+- PHAM Nhat
+
+
+#Instructions for project management
+
+- Define a project leader
+- Fork (the project leader) from my account (clemaitre58) your project
+- Fork (all menber of project group) your project from the group leader
+- Read (all the group) the bibliography that I put on folder named «Bibliography»
+- Organise (the group leader) a brainstorming in order to check that all group understand the subject. After this you will able to :
+	* Define a solution
+	* Split code une workpackage (function or set of functions)
+	* Roadmap (define time of production and deadline of each workpackage - associate group members to workpacakage)
+
+During the developpement of each workpackage, each member have to commit and push his work frequently. More generally each workpackage have been tested! When  workpackage  had passed the test, the group member could make a Pull request of they work in order  to merge their work  to the group leader repository.
+
+To make a pull request, just click in your Github repository the green button «Pull request». If they are  some conflicts the group leader will receive a message with details conserning the confict. *NB : it's the role of group leader to indicate the developers wich modifications he had to done to resolve the conflicts*
+
+
